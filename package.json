@@ -1,0 +1,10 @@
+{
+  "name": "js-speaking-grandma-lagcc-002",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
